@@ -36,7 +36,7 @@ This project utilizes FastAPI, a modern, fast (high-performance), web framework 
 
 - **Python Programming Language**: You will need Python installed to run this program. If you haven't installed Python, you can download it [here](https://www.python.org/downloads/)
 - **Pip Package Installer**: You will use pip to install packages from the Python Package Index and other indexes. Usually, pip is automatically installed if you downloaded Python from [python.org](https://www.python.org/)
-- **Uvicorn and FastAPI**: There are needed to successfully run Python server. They will be installed with pip from requirements.txt 
+- **Uvicorn and FastAPI**: They are needed to successfully run Python server. They will be installed with pip from requirements.txt 
 
 
 ### Installation
