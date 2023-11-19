@@ -50,6 +50,12 @@ Reposition in the `levi9-five-days-in-the-cloud`
 cd levi9-five-days-in-the-cloud
 ```
 And then install all the requirements
+
+*For Python 3*
+```
+pip3 install -r requirements.txt
+```
+*For Python version less than 3*
 ```
 pip install -r requirements.txt
 ```
@@ -58,6 +64,12 @@ pip install -r requirements.txt
 ## Usage
 
 **Run the FastAPI server:**
+
+*For Python 3*
+```
+python3 main.py <csv_file_path> [--csv_encoding <encoding>] [-p <port>]
+```
+*For Python version less than 3*
 ```
 python main.py <csv_file_path> [--csv_encoding <encoding>] [-p <port>]
 ```
