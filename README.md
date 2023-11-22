@@ -81,6 +81,7 @@ curl http://localhost:8000/stats/player/{player_name}
 ```
 
 **Run unit tests:**
+
 *For Python 3*
 ```
 python3 test.py
