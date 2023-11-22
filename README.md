@@ -81,10 +81,14 @@ curl http://localhost:8000/stats/player/{player_name}
 ```
 
 **Run unit tests:**
+*For Python 3*
+```
+python3 test.py
+```
+*For Python version less than 3*
 ```
 python test.py
 ```
-
 <div align="right">[ <a href="#table-of-contents">↑ Back to top ↑</a> ]</div>
 
 ## Acknowledgements
